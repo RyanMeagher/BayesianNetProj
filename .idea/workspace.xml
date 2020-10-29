@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f15c6a84-ddfb-4024-a385-5fff2fd7cd74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jUV1aTfCaC1LZ4sLQSwji2KZLm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.agent">
+    <configuration name="agent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BayesNetProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/agent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BayesNetProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="burglary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BayesNetProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/burglary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dbn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BayesNetProj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.agent" />
+        <item itemvalue="Python.dbn" />
+        <item itemvalue="Python.burglary" />
+        <item itemvalue="Python.bn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f15c6a84-ddfb-4024-a385-5fff2fd7cd74" name="Default Changelist" comment="" />
+      <created>1603858442699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603858442699</updated>
+      <workItem from="1603858447114" duration="422000" />
+      <workItem from="1603859040610" duration="11420000" />
+      <workItem from="1603907696906" duration="2143000" />
+      <workItem from="1603918774400" duration="98000" />
+      <workItem from="1603918874940" duration="70000" />
+      <workItem from="1603918955695" duration="7793000" />
+      <workItem from="1603946647457" duration="88000" />
+      <workItem from="1603946817783" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1287" height="397" key="GridCell.Tab.0.bottom" timestamp="1603946582418">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1287" height="397" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1603946582418" />
+    <state width="1287" height="397" key="GridCell.Tab.0.bottom/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1603930988838" />
+    <state width="1287" height="397" key="GridCell.Tab.0.center" timestamp="1603946582417">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1287" height="397" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1603946582417" />
+    <state width="1287" height="397" key="GridCell.Tab.0.center/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1603930988837" />
+    <state width="1287" height="397" key="GridCell.Tab.0.left" timestamp="1603946582417">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1287" height="397" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1603946582417" />
+    <state width="1287" height="397" key="GridCell.Tab.0.left/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1603930988836" />
+    <state width="1287" height="397" key="GridCell.Tab.0.right" timestamp="1603946582417">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1287" height="397" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1603946582417" />
+    <state width="1287" height="397" key="GridCell.Tab.0.right/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1603930988837" />
+    <state x="167" y="133" key="SettingsEditor" timestamp="1603860673080">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="167" y="133" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1603860673080" />
+    <state x="1199" y="-742" key="com.intellij.ide.util.TipDialog" timestamp="1603918995560">
+      <screen x="667" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="399" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1603858448722" />
+    <state x="1199" y="-742" key="com.intellij.ide.util.TipDialog/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1603918995560" />
+    <state x="0" y="23" width="1753" height="832" key="dock-window-1" timestamp="1603946573530">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="0" y="23" width="1753" height="832" key="dock-window-1/0.23.1440.832@0.23.1440.832" timestamp="1603946573530" />
+    <state x="-1253" y="-1057" width="1753" height="1007" key="dock-window-1/667.-1057.1920.1057/0.23.1440.832/-1253.-1057.1920.1057@667.-1057.1920.1057" timestamp="1603922080533" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BayesNetProj$burglary.coverage" NAME="burglary Coverage Results" MODIFIED="1603920883307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BayesNetProj$dbn.coverage" NAME="dbn Coverage Results" MODIFIED="1603921358545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BayesNetProj$bn.coverage" NAME="bn Coverage Results" MODIFIED="1603909701015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BayesNetProj$agent.coverage" NAME="agent Coverage Results" MODIFIED="1603930988829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
